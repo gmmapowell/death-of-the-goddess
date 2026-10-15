@@ -1,5 +1,6 @@
 ﻿@Chapter
 title=Pharmakos
+toc=+
 
 
 Cronos and Rhea looked at every hut closely.

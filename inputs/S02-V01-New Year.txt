@@ -1,5 +1,6 @@
 ﻿@Chapter
 title=New Year's Day
+toc=1
 
 
 The two fighters clashed bronze swords.

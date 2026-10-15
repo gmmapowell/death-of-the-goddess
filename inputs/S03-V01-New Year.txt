@@ -1,5 +1,6 @@
 ﻿@Chapter
 title=New Year
+toc=1
 
 
 The two men stood watching the sky.

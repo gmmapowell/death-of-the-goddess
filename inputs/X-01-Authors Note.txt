@@ -1,5 +1,6 @@
 ﻿@Chapter
 title=Author's Note
+toc=+
 
 
 There are quite a few notes at the end of this book.  But my book, my rules.

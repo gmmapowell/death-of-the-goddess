@@ -1,5 +1,6 @@
 ﻿@Chapter
 title=New Year's Eve
+toc=1
 
 
 She started to move her feet through the ritual steps of invocation.  As she did so, she heard the drummers behind her start their steady beat, both tracking her movements and driving them forward.

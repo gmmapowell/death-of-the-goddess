@@ -1,5 +1,6 @@
 ﻿@Chapter
 title=Pharmakos
+toc=+
 
 
 The sun was baking hot.
